@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Code Class ES6",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "petergoes",
+    "githubRepository": "code-class-es6-presentation"
+  }
+}
