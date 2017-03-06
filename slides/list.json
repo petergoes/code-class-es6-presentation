@@ -10,49 +10,49 @@
     },
     [
         {
-            "filename": "var-vs-let-const/var-vs-let-const.html",
+            "filename": "1_var-vs-let-const/var-vs-let-const.html",
             "attr": {
                 "class": "title-slide"
             }
         },
-        "var-vs-let-const/var-is-function-scoped.html",
-        "var-vs-let-const/var-is-function-scoped-example.html",
-        "var-vs-let-const/let-const-are-block-scoped.html",
-        "var-vs-let-const/let-const-are-block-scoped-example-1.html",
-        "var-vs-let-const/let-const-are-block-scoped-example-2.html",
-        "var-vs-let-const/let-const-are-block-scoped-example-3.html"
+        "1_var-vs-let-const/var-is-function-scoped.html",
+        "1_var-vs-let-const/var-is-function-scoped-example.html",
+        "1_var-vs-let-const/let-const-are-block-scoped.html",
+        "1_var-vs-let-const/let-const-are-block-scoped-example-1.html",
+        "1_var-vs-let-const/let-const-are-block-scoped-example-2.html",
+        "1_var-vs-let-const/let-const-are-block-scoped-example-3.html"
     ],
     [
         {
-            "filename": "let-const/let-const.html",
+            "filename": "2_let-const/let-const.html",
             "attr": {
                 "class": "title-slide"
             }
         },
-        "let-const/let.html",
-        "let-const/const.html",
-        "let-const/watch-out.html",
-        "let-const/var-let-const.html",
-        "let-const/when-var-let-const.html",
+        "2_let-const/let.html",
+        "2_let-const/const.html",
+        "2_let-const/watch-out.html",
+        "2_let-const/var-let-const.html",
+        "2_let-const/when-var-let-const.html",
         "exercise.html"
     ],
     [
         {
-            "filename": "arrow-functions/arrow-functions.html",
+            "filename": "3_arrow-functions/arrow-functions.html",
             "attr": {
                 "class": "title-slide"
             }
         },
-        "arrow-functions/normal-function-vs-arrow-function.html",
-        "arrow-functions/arrow-function-syntax.html",
-        "arrow-functions/what-about-this.html",
-        "arrow-functions/what-about-this-example-1.html",
-        "arrow-functions/what-about-this-example-2.html",
+        "3_arrow-functions/normal-function-vs-arrow-function.html",
+        "3_arrow-functions/arrow-function-syntax.html",
+        "3_arrow-functions/what-about-this.html",
+        "3_arrow-functions/what-about-this-example-1.html",
+        "3_arrow-functions/what-about-this-example-2.html",
         "exercise.html"
     ],
     [
         {
-            "filename": "destructuring/destructuring.html",
+            "filename": "4_destructuring/destructuring.html",
             "attr": {
                 "class": "title-slide"
             }
@@ -60,7 +60,7 @@
     ],
     [
         {
-            "filename": "spread-rest/spread-rest.html",
+            "filename": "5_spread-rest/spread-rest.html",
             "attr": {
                 "class": "title-slide"
             }
@@ -68,7 +68,7 @@
     ],
     [
         {
-            "filename": "symbols/symbols.html",
+            "filename": "6_symbols/symbols.html",
             "attr": {
                 "class": "title-slide"
             }
