@@ -1,0 +1,23 @@
+<pre><code class="hljs js" data-trim>
+var width = 200;
+if (true === true) {
+    var height = 300;
+}
+
+function myFunction() {
+    var x = 100;
+    console.log(width); // 200
+}
+myFunction();
+
+console.log(width); // 200
+console.log(height); // 300
+console.log(x); // error
+</code></pre>
+
+<aside class="notes">
+    <ul>
+        <li>x is only available in myFunction</li>
+        <li>height is global scoped (not in function scope)</li>
+    </ul>
+</aside>

@@ -1,0 +1,23 @@
+<pre><code class="hljs js" data-trim>
+const width = 200;
+if (true === true) {
+    const height = 300;
+}
+
+function myFunction() {
+    const x = 100;
+    console.log(width); // 200
+}
+myFunction();
+
+console.log(width); // 200
+console.log(height); // error <-- this throws an error
+console.log(x); // error
+</code></pre>
+
+<aside class="notes">
+    <ul>
+        <li>x is only available in myFunction</li>
+        <li>height is only available in if block!</li>
+    </ul>
+</aside>

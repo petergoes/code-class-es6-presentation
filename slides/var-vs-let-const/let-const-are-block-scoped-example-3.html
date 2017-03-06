@@ -1,0 +1,15 @@
+<pre><code class="hljs js" data-trim>
+for (let i = 0; i < 10; i++) {
+    setTimeout(function() {
+        console.log('The number is:', i);
+    }, 1000);
+}
+console.log(i); // error
+</code></pre>
+
+<aside class="notes">
+    <ul>
+        <li>The number is: n</li>
+        <li>log statement throws error, i in block scope</li>
+    </ul>
+</aside>
