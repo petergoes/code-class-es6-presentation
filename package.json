@@ -18,6 +18,7 @@
     "node": ">=4"
   },
   "scripts": {
+    "postinstall": "bower install",
     "test": "grunt test",
     "start": "grunt serve",
     "deploy": "grunt deploy"

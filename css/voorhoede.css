@@ -1,5 +1,5 @@
-@import url(../../resources/font/raleway/raleway.css);
-@import url(../../resources/font/fira-code/fira-code.css);
+@import url(../resources/font/raleway/raleway.css);
+@import url(../resources/font/fira-code/fira-code.css);
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
   color: #222; }
 
@@ -299,7 +299,7 @@ body {
   margin: 0 !important; }
 
 .reveal .slide-background {
-  background-image: url(../../resources/assets/voorhoedevignet.svg);
+  background-image: url(../resources/assets/voorhoedevignet.svg);
   background-size: 150px;
   background-position: bottom; }
 

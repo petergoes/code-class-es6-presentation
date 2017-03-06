@@ -8,8 +8,8 @@ $dark: #12353C;
 
 
 // Include theme-specific fonts
-@import url(../../resources/font/raleway/raleway.css);
-@import url(../../resources/font/fira-code/fira-code.css);
+@import url(../resources/font/raleway/raleway.css);
+@import url(../resources/font/fira-code/fira-code.css);
 
 
 // Override theme settings (see ../template/settings.scss)
@@ -66,7 +66,7 @@ section.has-light-background {
 }
 
 .reveal .slide-background {
-    background-image: url(../../resources/assets/voorhoedevignet.svg);
+    background-image: url(../resources/assets/voorhoedevignet.svg);
     background-size: 150px;
     background-position: bottom;
 }
