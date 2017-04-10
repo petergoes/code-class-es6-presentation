@@ -10,3 +10,6 @@ const obj = {
 };
 obj.myFunction();
 ```
+
+note:
+* With an arrow function, the scope of `this` is inherit from the parent

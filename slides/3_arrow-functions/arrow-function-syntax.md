@@ -21,3 +21,8 @@ const logAndReturn = x => {
     return x;
 }
 ```
+
+note:
+* a **single** argument does not need parentheses
+* Return is only needed on multiple lines
+* Only multiple lines need brackets

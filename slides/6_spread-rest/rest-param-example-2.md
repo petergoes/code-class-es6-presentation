@@ -10,3 +10,6 @@ console.log( average(1,2,3,4,5) ); // 3
 console.log( average(1,2,3,4) );   // 2.5
 console.log( average(3,4,5) );     // 4
 ```
+
+note:
+* Get all params and put them in a **normal** array named `grades`

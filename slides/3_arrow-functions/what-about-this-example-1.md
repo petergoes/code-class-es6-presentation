@@ -14,3 +14,6 @@ obj.myFunction = function () {
 
 obj.myFunction();
 ```
+
+note:
+* The `this` in `mySecondFunction` is not bound to anything and defaults to `Window`

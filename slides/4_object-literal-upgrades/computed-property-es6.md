@@ -11,3 +11,6 @@ const obj = {
 
 console.log(obj); // { "diff": -256, "diffAbs": 256 }
 ```
+
+note:
+* You can define computed properties right in the object definition

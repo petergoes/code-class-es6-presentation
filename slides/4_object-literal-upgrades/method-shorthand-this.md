@@ -13,3 +13,6 @@ const obj3 = {
   foo: () => { console.log(this); }      // undefined
 }
 ```
+
+note:
+* Do not use arrow functions in property shorthands, it will mess with the `this`

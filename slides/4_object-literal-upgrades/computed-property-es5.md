@@ -11,3 +11,6 @@ obj[`${key}Abs`] = Math.abs(value);
 
 console.log(obj); // { "diff": -256, "diffAbs": 256 }
 ```
+
+note:
+* You need to define the object before you can add computed properties

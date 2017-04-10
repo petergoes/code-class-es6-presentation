@@ -14,4 +14,4 @@ obj = {}; // error
 ```
 
 note:
-* Properties or array values can be modified
+* **Properties** or array **values** can be modified

@@ -16,3 +16,7 @@ function create({x=10, y=10, w:width = 100, h:height = 100} = {}) {
 ```
 {x = 10, y = 10, w: width = 100, h: height = 100} = {}
 ```
+
+note:
+1. Is `w` in `coordinates`? No, create new `const` variable `width`, with a default value of `100`
+2. Is `h` in `coordinates`? No, create new `const` variable `height`, with a default value of `100`
