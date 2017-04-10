@@ -10,70 +10,95 @@
     },
     [
         {
-            "filename": "1_var-vs-let-const/var-vs-let-const.html",
+            "filename": "1_var-vs-let-const/var-vs-let-const.md",
             "attr": {
                 "class": "title-slide"
             }
         },
-        "1_var-vs-let-const/var-is-function-scoped.html",
-        "1_var-vs-let-const/var-is-function-scoped-example.html",
-        "1_var-vs-let-const/let-const-are-block-scoped.html",
-        "1_var-vs-let-const/let-const-are-block-scoped-example-1.html",
-        "1_var-vs-let-const/let-const-are-block-scoped-example-2.html",
-        "1_var-vs-let-const/let-const-are-block-scoped-example-3.html"
+        "1_var-vs-let-const/var-is-function-scoped.md",
+        "1_var-vs-let-const/var-is-function-scoped-example.md",
+        "1_var-vs-let-const/let-const-are-block-scoped.md",
+        "1_var-vs-let-const/let-const-are-block-scoped-example-1.md",
+        "1_var-vs-let-const/let-const-are-block-scoped-example-2.md",
+        "1_var-vs-let-const/let-const-are-block-scoped-example-3.md"
     ],
     [
         {
-            "filename": "2_let-const/let-const.html",
+            "filename": "2_let-const/let-const.md",
             "attr": {
                 "class": "title-slide"
             }
         },
-        "2_let-const/let.html",
-        "2_let-const/const.html",
-        "2_let-const/watch-out.html",
-        "2_let-const/var-let-const.html",
-        "2_let-const/when-var-let-const.html",
-        "exercise.html"
+        "2_let-const/let.md",
+        "2_let-const/const.md",
+        "2_let-const/watch-out.md",
+        "2_let-const/var-let-const.md",
+        "2_let-const/when-var-let-const.md",
+        "exercise.md"
     ],
     [
         {
-            "filename": "3_arrow-functions/arrow-functions.html",
+            "filename": "3_arrow-functions/arrow-functions.md",
             "attr": {
                 "class": "title-slide"
             }
         },
-        "3_arrow-functions/normal-function-vs-arrow-function.html",
-        "3_arrow-functions/arrow-function-syntax.html",
-        "3_arrow-functions/what-about-this.html",
-        "3_arrow-functions/what-about-this-example-1.html",
-        "3_arrow-functions/what-about-this-example-2.html",
-        "exercise.html"
+        "3_arrow-functions/normal-function-vs-arrow-function.md",
+        "3_arrow-functions/arrow-function-syntax.md",
+        "3_arrow-functions/what-about-this.md",
+        "3_arrow-functions/what-about-this-example-1.md",
+        "3_arrow-functions/what-about-this-example-2.md",
+        "exercise.md"
     ],
     [
         {
-            "filename": "4_destructuring/destructuring.html",
+            "filename": "4_object-literal-upgrades/object-literal-upgrades.md",
             "attr": {
                 "class": "title-slide"
             }
-        }
+        },
+        "4_object-literal-upgrades/property-shorthand.md",
+        "4_object-literal-upgrades/property-shorthand-es6.md",
+        "4_object-literal-upgrades/property-shorthand-practical-example.md",
+        "4_object-literal-upgrades/method-shorthand.md",
+        "4_object-literal-upgrades/method-shorthand-es6.md",
+        "4_object-literal-upgrades/method-shorthand-this.md",
+        "4_object-literal-upgrades/computed-properties.md",
+        "4_object-literal-upgrades/computed-property-es5.md",
+        "4_object-literal-upgrades/computed-property-es6.md",
+        "exercise.md"
     ],
     [
         {
-            "filename": "5_spread-rest/spread-rest.html",
+            "filename": "5_destructuring/destructuring.html",
             "attr": {
                 "class": "title-slide"
             }
-        }
+        },
+        "5_destructuring/array-destructuring.md",
+        "5_destructuring/object-destructuring.md",
+        "5_destructuring/destructuring-from-function.md",
+        "5_destructuring/destructuring-default-values.md",
+        "5_destructuring/renaming-values.md",
+        "5_destructuring/destructuring-function-params.md",
+        "exercise.md"
     ],
     [
         {
-            "filename": "6_symbols/symbols.html",
+            "filename": "6_spread-rest/spread-rest.html",
             "attr": {
                 "class": "title-slide"
             }
-        }
+        },
+        "6_spread-rest/spread-operator.md",
+        "6_spread-rest/spread-operator-example-1.md",
+        "6_spread-rest/spread-operator-example-2.md",
+        "6_spread-rest/rest-param.md",
+        "6_spread-rest/rest-param-example.md",
+        "6_spread-rest/rest-param-example-2.md",
+        "exercise.md"
     ],
+    "what-we-did-not-cover.md",
     {
         "filename": "logo.html",
         "attr": {
