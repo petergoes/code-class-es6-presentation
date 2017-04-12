@@ -62,6 +62,10 @@ section.has-light-background {
     text-rendering: optimizeLegibility;
 }
 
+.reveal a {
+    text-decoration: underline;
+}
+
 .logo {
     border: none !important;
     box-shadow: none !important;

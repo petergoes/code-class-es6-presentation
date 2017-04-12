@@ -34,7 +34,7 @@
         "2_let-const/watch-out.md",
         "2_let-const/var-let-const.md",
         "2_let-const/when-var-let-const.md",
-        "exercise.md"
+        "2_let-const/exercise.md"
     ],
     [
         {
@@ -48,7 +48,7 @@
         "3_arrow-functions/what-about-this.md",
         "3_arrow-functions/what-about-this-example-1.md",
         "3_arrow-functions/what-about-this-example-2.md",
-        "exercise.md"
+        "3_arrow-functions/exercise.md"
     ],
     [
         {
@@ -66,7 +66,7 @@
         "4_object-literal-upgrades/computed-properties.md",
         "4_object-literal-upgrades/computed-property-es5.md",
         "4_object-literal-upgrades/computed-property-es6.md",
-        "exercise.md"
+        "4_object-literal-upgrades/exercise.md"
     ],
     [
         {
@@ -81,7 +81,7 @@
         "5_destructuring/destructuring-default-values.md",
         "5_destructuring/renaming-values.md",
         "5_destructuring/destructuring-function-params.md",
-        "exercise.md"
+        "5_destructuring/exercise.md"
     ],
     [
         {
@@ -96,7 +96,7 @@
         "6_spread-rest/rest-param.md",
         "6_spread-rest/rest-param-example.md",
         "6_spread-rest/rest-param-example-2.md",
-        "exercise.md"
+        "6_spread-rest/exercise.md"
     ],
     "what-we-did-not-cover.md",
     {
